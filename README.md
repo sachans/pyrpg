@@ -1,2 +1,2 @@
 # pyrps
-A RPS game in Python
+A text based RPS game in Python
