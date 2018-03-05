@@ -8,7 +8,7 @@ To Play:
 2. UnZip It
 3. Run the main.py file
 
-You Can Run It in IDE or Via Python
+You Can Run It in IDE or Via Python Command.
 
 By Terminal:
 Open terminal and type following
