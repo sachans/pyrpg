@@ -1,6 +1,4 @@
 # pyrps
-A text based RPS game in Python
-
 It's an Text based RPG Game.
 
 To Play:
@@ -11,5 +9,7 @@ To Play:
 You Can Run It in IDE or Via Python Command.
 
 By Terminal:
-Open terminal and type following
+Open terminal and move to the folder pyrpg-master.
+cd Downloads
+cd pyrpg-master
 python3 main.py
